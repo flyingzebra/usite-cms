@@ -1,0 +1,69 @@
+
+A {text-decoration: none; color: #0068e7}
+A:hover {text-decoration: none; color: #0068e7} 
+
+.white{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ffffff; font-size: 12px; font-weight: bold; text-decoration: none}
+A.white:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ffffff; font-size: 12px; font-weight: bold; text-decoration: none}
+A.white:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ffffff; font-size: 12px; font-weight: bold; text-decoration: none}
+A.white:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff8800; font-size: 12px; font-weight: bold; text-decoration: none}
+A.white:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff8800; font-size: 12px; font-weight: bold; text-decoration: none}
+
+.text{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#000000; font-size: 12px; font-weight: normal; text-decoration: none}
+A.text:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 12px; font-weight: normal; text-decoration: none}
+A.text:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 12px; font-weight: normal; text-decoration: none}
+A.text:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff8800; font-size: 12px; font-weight: normal; text-decoration: none}
+A.text:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff8800; font-size: 12px; font-weight: normal; text-decoration: none}
+
+.high{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#74B4FF; font-size: 12px; font-weight: normal; text-decoration: none}
+A.high:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#74B4FF; font-size: 12px; font-weight: normal; text-decoration: none}
+A.high:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#74B4FF; font-size: 12px; font-weight: normal; text-decoration: none}
+A.high:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#74B4FF; font-size: 12px; font-weight: normal; text-decoration: none}
+A.high:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#74B4FF; font-size: 12px; font-weight: normal; text-decoration: none}
+
+.menu{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#000000; font-size: 12px; font-weight: normal; text-decoration: none}
+A.menu:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#000000; font-size: 12px; font-weight: normal; text-decoration: none}
+A.menu:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#000000; font-size: 12px; font-weight: normal; text-decoration: none}
+A.menu:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff8800; font-size: 12px; font-weight: normal; text-decoration: none}
+A.menu:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff8800; font-size: 12px; font-weight: normal; text-decoration: none}
+
+.menuyes{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 12px; font-weight: bold; text-decoration: none}
+A.menuyes:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 12px; font-weight: bold; text-decoration: none}
+A.menuyes:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 12px; font-weight: bold; text-decoration: none}
+A.menuyes:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 12px; font-weight: bold; text-decoration: none}
+A.menuyes:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 12px; font-weight: bold; text-decoration: none}
+
+.invisible{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#cfe5ff; font-size: 12px; font-weight: normal; text-decoration: none}
+A.invisible:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#cfe5ff; font-size: 12px; font-weight: normal; text-decoration: none}
+A.invisible:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#cfe5ff; font-size: 12px; font-weight: normal; text-decoration: none}
+A.invisible:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#cfe5ff; font-size: 12px; font-weight: normal; text-decoration: none}
+A.invisible:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#cfe5ff; font-size: 12px; font-weight: normal; text-decoration: none}
+
+.footer{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#000000; font-size: 10px; font-weight: normal; text-decoration: none}
+A.footer:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 10px; font-weight: normal; text-decoration: none}
+A.footer:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 10px; font-weight: normal; text-decoration: none}
+A.footer:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 10px; font-weight: normal; text-decoration: none}
+A.footer:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#0054E8; font-size: 10px; font-weight: normal; text-decoration: none}
+
+.description{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#666666; font-size: 12px; font-weight: normal; text-decoration: none}
+A.description:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#444444; font-size: 12px; font-weight: normal; text-decoration: none}
+A.description:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#444444; font-size: 12px; font-weight: normal; text-decoration: none}
+A.description:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#888888; font-size: 12px; font-weight: normal; text-decoration: none}
+A.description:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#888888; font-size: 12px; font-weight: normal; text-decoration: none}
+
+.small{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#666666; font-size: 9px; font-weight: normal; text-decoration: none}
+A.small:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#666666; font-size: 9px; font-weight: normal; text-decoration: none}
+A.small:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#666666; font-size: 9px; font-weight: normal; text-decoration: none}
+A.small:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#666666; font-size: 9px; font-weight: normal; text-decoration: none}
+A.small:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#666666; font-size: 9px; font-weight: normal; text-decoration: none}
+
+.exemple{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff0000; font-size: 10px; font-weight: normal; text-decoration: none}
+A.exemple:link{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff0000; font-size: 10px; font-weight: normal; text-decoration: none}
+A.exemple:visited{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff0000; font-size: 10px; font-weight: normal; text-decoration: none}
+A.exemple:hover{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff0000; font-size: 10px; font-weight: normal; text-decoration: none}
+A.exemple:active{font-family:  arial, verdana, tahoma, helvetica, ms sans serif; color:#ff0000; font-size: 10px; font-weight: normal; text-decoration: none}
+
+.input{font-size: 8pt; font-family: Arial,Verdana, Tahoma, Helvetica, MS Sans Serif; font-weight: normal; background-color: #eaf4ff; color: #0068e7; padding: 3; border-width: 2; border-color: #ffffff; border-style: 3d;}
+.input2{font-size: 8pt; font-family: Arial,Verdana, Tahoma, Helvetica, MS Sans Serif; font-weight: normal; background-color: #F0FFF8; color: #0068e7; padding: 3; border-width: 2; border-color: #ffffff; border-style: 3d;}
+.input3{font-size: 8pt; font-family: Arial,Verdana, Tahoma, Helvetica, MS Sans Serif; font-weight: normal; background-color: #eaf4ff; color: #ff0000; padding: 3; border-width: 2; border-color: #ffffff; border-style: 3d;}
+
+.noinput{font-size: 8pt; font-family: Arial,Verdana, Tahoma, Helvetica, MS Sans Serif; font-weight: normal; background-color: #eaf4ff; color: #0068e7; padding: 3; border-width: 2; border-color: #ffffff; border-style: 3d;}
