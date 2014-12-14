@@ -1,0 +1,198 @@
+	BODY
+	{
+    	   SCROLLBAR-FACE-COLOR: #4d7192;
+    	   SCROLLBAR-SHADOW-COLOR: #003363;
+    	   SCROLLBAR-3DLIGHT-COLOR: #26517a;
+    	   SCROLLBAR-ARROW-COLOR: #ffffff;
+    	   SCROLLBAR-TRACK-COLOR: #648aae;
+    	   SCROLLBAR-DARKSHADOW-COLOR: #26517a;
+	}
+
+	A:link
+	{
+	   	BACKGROUND: none transparent scroll repeat 0% 0%;
+	   	MARGIN: 0em 0%;
+	   	COLOR: #3084b2;
+	   	LINE-HEIGHT: 140%;
+	   	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif;
+	   	TEXT-DECORATION: underline;
+	}
+	A:visited
+	{
+	   	BACKGROUND: none transparent scroll repeat 0% 0%;
+	   	MARGIN: 0em 0%;
+	   	COLOR: #3084b2;
+	   	LINE-HEIGHT: 140%;
+	   	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif;
+	   	TEXT-DECORATION: underline;	
+	}
+	A:active
+	{
+	   	BACKGROUND: none transparent scroll repeat 0% 0%;
+	   	MARGIN: 0em 0%;
+	   	LINE-HEIGHT: 140%;
+	   	FONT-FAMILY: Verdana,Arial,Helvetica,sans-serif;
+	   	TEXT-DECORATION: underline;	
+	}
+	
+	A.small:link
+	{
+		COLOR: #003366;
+		TEXT-DECORATION: none;
+	}
+
+	A.small:active
+	{
+		COLOR: #003366;
+		FONT-WEIGHT: bolder;
+	}
+	
+	A.small:visited
+	{
+		TEXT-DECORATION: none;
+		COLOR: #003366;
+	}	
+
+	A.small:hover
+	{
+	   	TEXT-DECORATION: underline;
+	}
+	
+
+	A.smallgreen:link
+	{
+		COLOR: #006600;
+		TEXT-DECORATION: none;
+	}	
+	
+	A.smallgreen:active
+	{
+		COLOR: #006600;
+		FONT-WEIGHT: bolder;
+	}
+	
+	A.smallgreen:visited
+	{
+		TEXT-DECORATION: none;
+		COLOR: #006600;
+	}	
+	
+	A.smallgreen:hover
+	{
+	   	TEXT-DECORATION: underline;
+	}
+	
+	H2
+	{
+		FONT-WEIGHT: normal;
+		FONT-SIZE: x-small;
+		MARGIN-BOTTOM: 5px;
+		PADDING-BOTTOM: 2px;
+		COLOR: #212930;
+		BORDER-BOTTOM: #cccccc 1px solid;
+		FONT-FAMILY: Verdana
+	}
+
+	.body
+	{
+	    FONT-SIZE: smaller;
+	    CURSOR: text;
+	    COLOR: #676767;
+	    LINE-HEIGHT: normal;
+	    FONT-FAMILY: Verdana, Arial, Geneva, sans-seriff;
+	    TEXT-ALIGN: justify
+	}
+	.bodybold
+	{
+	    FONT-SIZE: smaller;
+	    COLOR: #585858;
+	    LINE-HEIGHT: 16px;
+	    FONT-FAMILY: Verdana, Arial, Geneva, sans-seriff
+	}
+	.voetnoot
+	{
+	    FONT-SIZE: 80%;
+	    COLOR: #003366;
+	    FONT-FAMILY: Verdana, Arial, Geneva, sans-seriff
+	}
+	
+	.small
+	{ 
+	   FONT-SIZE: xx-small;
+	   BACKGROUND: none transparent scroll repeat 0% 0%;
+	   MARGIN: 0em 0%;
+	   COLOR: #3e3e3e;
+	   LINE-HEIGHT: 125%;
+	   FONT-FAMILY: Verdana,Tahoma,Arial,Helvetica,sans-serif;
+	}
+	
+	.smallgreen
+	{ 
+	   FONT-SIZE: xx-small;
+	   BACKGROUND: none transparent scroll repeat 0% 0%;
+	   MARGIN: 0em 0%;
+	   COLOR: #006600;
+	   LINE-HEIGHT: 125%;
+	   FONT-FAMILY: Verdana,Tahoma,Arial,Helvetica,sans-serif;
+	}
+
+	.title
+	{
+		FONT-WEIGHT: bold;
+		FONT-SIZE: medium;
+		COLOR: #000000;
+		FONT-FAMILY: Arial, Helvetica, sans-serif
+	}
+
+	.footer
+	{
+	    FONT-SIZE: xx-small;
+	    COLOR: #999999;
+	    FONT-FAMILY: Verdana, Arial, Geneva, sans-serif
+	}
+	
+	.footnote
+	{
+	    FONT-SIZE: xx-small;
+	    COLOR: #003366;
+	    FONT-FAMILY: Verdana, Arial, Geneva, sans-serif
+	}	
+	
+	TABLE.tab TD
+	{
+		FONT-SIZE: xx-small;
+		FONT-FAMILY: Verdana, Arial, Geneva, sans-serif;
+	}
+	
+	TABLE.tab A:link
+	{
+		COLOR: #505050;
+	}
+
+	TABLE.tab A:visited
+	{
+		COLOR: #505050;
+	}
+	
+	TABLE.tab A:active
+	{
+		COLOR: #505050;
+	}
+	
+	TABLE.tab A:hover
+	{
+		COLOR: #000000;
+	}
+	
+	div.box
+	{
+		margin-top: 5px;
+		margin-left: 10px;
+		margin-right: 10px;
+	}
+
+
+
+
+
+
